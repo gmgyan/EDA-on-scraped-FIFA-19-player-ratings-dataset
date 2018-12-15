@@ -5,3 +5,6 @@ I have used plot.ly for interactive visualization in some of my graphs. So, some
 
 1. <b>OPEN</b> "https://nbviewer.jupyter.org/"
 2. <b>PASTE</b> the URL of the .ipynb file in nbviewer search bar and press <b>GO</b>
+
+#### Dataset:
+Scraped from https://sofifa.com/
